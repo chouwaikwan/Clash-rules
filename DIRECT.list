@@ -9,6 +9,7 @@ IP-CIDR6,::1/128
 IP-CIDR6,fc00::/7
 IP-CIDR6,fe80::/10
 IP-CIDR6,fd00::/8
+DOMAIN-waikwan.xyz
 DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,totheglory.im
