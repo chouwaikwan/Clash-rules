@@ -1,0 +1,38 @@
+# GitHub 相关（可选直连或代理）
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,githubassets.com
+# Copilot 和 OpenAI 相关
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openaiapi.com
+DOMAIN-SUFFIX,chat.openai.com
+# VS Code 及扩展市场
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,marketplace.visualstudio.com
+# Microsoft 及 Azure 相关
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msocsp.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+# Cloudflare 可能涉及的服务
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
+
+
+
