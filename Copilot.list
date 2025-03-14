@@ -1,18 +1,18 @@
 # GitHub 核心服务
-- DOMAIN-SUFFIX,github.com
-- DOMAIN-SUFFIX,github.io
-- DOMAIN-SUFFIX,githubapp.com
-- DOMAIN-SUFFIX,githubassets.com
-- DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
 # Copilot 专用域名
-- DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
-- DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 # GitHub API 和认证
-- DOMAIN-SUFFIX,api.github.com
-- DOMAIN-SUFFIX,raw.githubusercontent.com
-- DOMAIN-SUFFIX,gist.githubusercontent.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,gist.githubusercontent.com
 # 微软相关（GitHub登录、Azure服务）
-- DOMAIN-SUFFIX,microsoft.com
-- DOMAIN-SUFFIX,login.microsoftonline.com
-- DOMAIN-SUFFIX,azure.com
-- DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,login.microsoftonline.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,live.com
